@@ -1,0 +1,1 @@
+{"description":"The Excuse That Almost Works — one line a gamer texts the boss to skip work on GTA 6 launch week.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-excuse-almost-works-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
